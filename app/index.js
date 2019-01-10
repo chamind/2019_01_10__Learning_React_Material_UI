@@ -7,7 +7,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <h1>Hello React Bebel_7 Webpack_4</h1>
+        <h1>Hello React</h1>
       </div>
     );
   }
